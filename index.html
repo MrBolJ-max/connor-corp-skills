@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Sales Caller — Stop Losing Deals to Missed Follow-Ups</title>
+    <script src="https://js.stripe.com/v3/"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a0a; color: #fff; line-height: 1.6; }
+        .container { max-width: 900px; margin: 0 auto; padding: 40px 20px; }
+        .hero { text-align: center; padding: 60px 0; }
+        .hero h1 { font-size: 3em; font-weight: 800; margin-bottom: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .hero p { font-size: 1.3em; color: #a0a0a0; max-width: 600px; margin: 0 auto 30px; }
+        .price-tag { display: inline-block; background: #10b981; color: #000; padding: 12px 30px; border-radius: 50px; font-weight: 700; font-size: 1.5em; margin: 20px 0; }
+        .cta-button { display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #fff; padding: 18px 50px; border-radius: 50px; font-weight: 700; font-size: 1.2em; text-decoration: none; border: none; cursor: pointer; transition: transform 0.2s; }
+        .cta-button:hover { transform: scale(1.05); }
+        .features { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; margin: 60px 0; }
+        .feature { background: #1a1a1a; padding: 30px; border-radius: 16px; border: 1px solid #333; }
+        .feature h3 { color: #667eea; margin-bottom: 15px; font-size: 1.3em; }
+        .feature p { color: #a0a0a0; font-size: 0.95em; }
+        .proof { background: #1a1a1a; padding: 40px; border-radius: 16px; margin: 40px 0; border: 1px solid #333; }
+        .proof h2 { color: #10b981; margin-bottom: 20px; }
+        .proof ul { list-style: none; }
+        .proof li { padding: 10px 0; color: #d0d0d0; border-bottom: 1px solid #333; }
+        .proof li:last-child { border-bottom: none; }
+        .proof strong { color: #fff; }
+        .faq { margin: 40px 0; }
+        .faq-item { background: #1a1a1a; padding: 25px; margin: 15px 0; border-radius: 12px; border: 1px solid #333; }
+        .faq-item h4 { color: #667eea; margin-bottom: 10px; }
+        .faq-item p { color: #a0a0a0; font-size: 0.95em; }
+        .guarantee { text-align: center; padding: 40px; background: #1a1a1a; border-radius: 16px; margin: 40px 0; border: 1px solid #333; }
+        .guarantee h3 { color: #10b981; margin-bottom: 15px; }
+        .footer { text-align: center; padding: 40px 0; color: #666; font-size: 0.9em; }
+        .urgency { background: #dc2626; color: #fff; padding: 15px; text-align: center; font-weight: 700; margin: 20px 0; border-radius: 8px; }
+        @media (max-width: 600px) {
+            .hero h1 { font-size: 2em; }
+            .price-tag { font-size: 1.2em; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="hero">
+            <div class="price-tag">$497 — One-Time Payment</div>
+            <h1>AI Sales Caller</h1>
+            <p>Deploy AI agents that research leads, make personalized calls, handle objections, and book meetings — while you sleep.</p>
+            <button class="cta-button" onclick="checkout()">Get Instant Access →</button>
+            <p style="margin-top: 15px; font-size: 0.9em; color: #666;">30-Day Money-Back Guarantee • Lifetime Updates</p>
+        </div>
+
+        <div class="urgency">
+            ⚡ Only 47 spots left at this price. Price increases to $997 when sold out.
+        </div>
+
+        <div class="features">
+            <div class="feature">
+                <h3>🔍 Lead Research Agent</h3>
+                <p>Scrapes Apollo.io, LinkedIn, and enriches profiles automatically. Builds complete lead lists in minutes.</p>
+            </div>
+            <div class="feature">
+                <h3>🎙️ AI Voice Caller</h3>
+                <p>Makes real phone calls via Twilio. Uses GPT-4o for natural conversation. Never sounds robotic.</p>
+            </div>
+            <div class="feature">
+                <h3>🛡️ Objection Handler</h3>
+                <p>50+ pre-built objection patterns. AI generates real-time responses. Handles "too expensive", "not interested", "send email".</p>
+            </div>
+            <div class="feature">
+                <h3>📅 Auto Meeting Booker</h3>
+                <p>Integrates with Cal.com/Calendly. Finds next available slot and books automatically. Sends confirmation emails.</p>
+            </div>
+            <div class="feature">
+                <h3>📧 Follow-Up Sequences</h3>
+                <p>3 pre-built sequences: Standard, Aggressive, Nurture. Email + LinkedIn DM. Runs on autopilot.</p>
+            </div>
+            <div class="feature">
+                <h3>📖 Proven Scripts</h3>
+                <p>5 battle-tested call scripts: SaaS, local service, real estate, e-commerce, agency. AI personalizes each one.</p>
+            </div>
+        </div>
+
+        <div class="proof">
+            <h2>💰 The Math</h2>
+            <ul>
+                <li><strong>One SDR costs:</strong> $5,000-8,000/month + benefits</li>
+                <li><strong>This system costs:</strong> $497 one-time + ~$100-300/month in API usage</li>
+                <li><strong>Calls per day:</strong> 50-100 (vs 20-30 for human SDR)</li>
+                <li><strong>Follow-ups:</strong> Never forgotten. Always on time.</li>
+                <li><strong>Bad days:</strong> Zero. AI doesn't get tired.</li>
+                <li><strong>ROI:</strong> Most users break even on first client.</li>
+            </ul>
+        </div>
+
+        <div class="faq">
+            <div class="faq-item">
+                <h4>Do I need to know how to code?</h4>
+                <p>Basic Python helps, but the setup guide is step-by-step. Most users are running within 2 hours.</p>
+            </div>
+            <div class="faq-item">
+                <h4>What APIs do I need?</h4>
+                <p>OpenAI ($20-100/mo), Twilio ($1.15/mo + per-call costs). Total: $100-300/month for heavy usage.</p>
+            </div>
+            <div class="faq-item">
+                <h4>Is this legal for cold calling?</h4>
+                <p>Includes DNC checking, opt-out language, and compliance guidance. You are responsible for following local laws.</p>
+            </div>
+            <div class="faq-item">
+                <h4>Can I resell this to my clients?</h4>
+                <p>Yes — includes white-label rights. Sell it as your own product.</p>
+            </div>
+            <div class="faq-item">
+                <h4>What's the refund policy?</h4>
+                <p>30-day money-back guarantee. If you can't get it running, full refund. No questions.</p>
+            </div>
+        </div>
+
+        <div class="guarantee">
+            <h3>🛡️ 30-Day Money-Back Guarantee</h3>
+            <p>If this doesn't work for you, email me within 30 days for a full refund. No questions, no hassle.</p>
+        </div>
+
+        <div style="text-align: center; padding: 40px 0;">
+            <button class="cta-button" onclick="checkout()">Get AI Sales Caller — $497</button>
+            <p style="margin-top: 15px; color: #666;">Instant download • Lifetime updates • 30-day guarantee</p>
+        </div>
+
+        <div class="footer">
+            <p>Built by Connor (JARVIS-Prime) | Connor Corp</p>
+            <p>Questions? Email: mike.josephh@zohomail.com.au</p>
+        </div>
+    </div>
+
+    <script>
+        // Stripe Checkout
+        const stripe = Stripe('pk_live_51MIlpcAILuc6earRPO9NVRHAs2OEuur4MwX21O9oM8RqVjtRhHJ5SRgPFP39GdnUGfJAdL1eInDzBsyN7BQ9OyV9006fPxY8RO');
+        
+        function checkout() {
+            // Create checkout session via backend
+            fetch('/api/create-checkout-session', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ price: 49700 }) // $497 in cents
+            })
+            .then(res => res.json())
+            .then(session => {
+                stripe.redirectToCheckout({ sessionId: session.id });
+            })
+            .catch(err => {
+                alert('Checkout loading... Please try again in a moment.');
+                console.error(err);
+            });
+        }
+    </script>
+</body>
+</html>
