@@ -1,0 +1,26 @@
+{
+  "product": "AI Sales Caller",
+  "stripe_payment_links": {
+    "starter": {
+      "url": "https://buy.stripe.com/8x214mbeKdTma6MeEB5Ne0q",
+      "price": 497,
+      "price_id": "price_1TUXmMAILuc6earRHMazz5uK",
+      "product_id": "prod_UTUlIsyQi0dgwV"
+    },
+    "pro": {
+      "url": "https://buy.stripe.com/28E00i0A68z23IodAx5Ne0r",
+      "price": 997,
+      "price_id": "price_1TUXnMAILuc6earR2mplaceholder",
+      "product_id": "prod_placeholder"
+    },
+    "enterprise": {
+      "url": "https://buy.stripe.com/fZu8wO3Mig1uceUdAx5Ne0r",
+      "price": 2497,
+      "price_id": "price_1TUXnMAILuc6earR3mplaceholder",
+      "product_id": "prod_placeholder"
+    }
+  },
+  "landing_page": "https://mrbolj-max.github.io/connor-corp-skills/",
+  "github_repo": "https://github.com/MrBolJ-max/connor-corp-skills",
+  "created_at": "2026-05-07T19:35:00Z"
+}

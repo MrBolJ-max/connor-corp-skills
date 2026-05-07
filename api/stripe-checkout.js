@@ -1,10 +1,8 @@
-"""
-Stripe Checkout API for AI Sales Caller
-Simple Express.js backend for Stripe payments
-
-Usage:
-    node stripe-checkout.js
-"""
+/**
+ * Stripe Checkout API for AI Sales Caller
+ * Simple Express.js backend for Stripe payments
+ * Usage: node stripe-checkout.js
+ */
 
 const express = require('express');
 const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
