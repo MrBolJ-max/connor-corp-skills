@@ -1,0 +1,10 @@
+2026-05-07 20:00:03,546 | INFO | ============================================================
+2026-05-07 20:00:03,546 | INFO | OUTREACH DM GENERATOR — Connor Corp
+2026-05-07 20:00:03,547 | INFO | ============================================================
+2026-05-07 20:00:03,547 | ERROR | Prospects CSV not found: /root/.openclaw/workspace/projects/connor-corp-skills/automation/output/prospects.csv
+2026-05-07 20:00:03,547 | ERROR | No prospects found. Run prospect-finder.py first.
+2026-05-08 00:00:32,663 | INFO | ============================================================
+2026-05-08 00:00:32,664 | INFO | OUTREACH DM GENERATOR — Connor Corp
+2026-05-08 00:00:32,664 | INFO | ============================================================
+2026-05-08 00:00:32,664 | ERROR | Prospects CSV not found: /root/.openclaw/workspace/projects/connor-corp-skills/automation/output/prospects.csv
+2026-05-08 00:00:32,664 | ERROR | No prospects found. Run prospect-finder.py first.

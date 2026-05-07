@@ -1,0 +1,36 @@
+2026-05-08 00:00:02,243 | INFO | ============================================================
+2026-05-08 00:00:02,243 | INFO | PROSPECT FINDER — Connor Corp Outreach Automation
+2026-05-08 00:00:02,244 | INFO | ============================================================
+2026-05-08 00:00:02,244 | INFO | Searching: CEO in saas
+2026-05-08 00:00:02,244 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:04,482 | INFO | Searching: CEO in software
+2026-05-08 00:00:04,482 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:05,631 | INFO | Searching: CEO in marketing agency
+2026-05-08 00:00:05,631 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:07,205 | INFO | Searching: Founder in saas
+2026-05-08 00:00:07,205 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:09,775 | INFO | Searching: Founder in software
+2026-05-08 00:00:09,775 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:12,663 | INFO | Searching: Founder in marketing agency
+2026-05-08 00:00:12,664 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:14,775 | INFO | Searching: Co-Founder in saas
+2026-05-08 00:00:14,775 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:16,186 | INFO | Searching: Co-Founder in software
+2026-05-08 00:00:16,186 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:18,586 | INFO | Searching: Co-Founder in marketing agency
+2026-05-08 00:00:18,587 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:20,080 | INFO | Searching: Owner in saas
+2026-05-08 00:00:20,081 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:22,546 | INFO | Searching: Owner in software
+2026-05-08 00:00:22,547 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:24,209 | INFO | Searching: Owner in marketing agency
+2026-05-08 00:00:24,209 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:25,540 | INFO | Searching: Managing Director in saas
+2026-05-08 00:00:25,540 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:27,429 | INFO | Searching: Managing Director in software
+2026-05-08 00:00:27,429 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:29,546 | INFO | Searching: Managing Director in marketing agency
+2026-05-08 00:00:29,546 | WARNING | APOLLO_API_KEY not set. Skipping Apollo search.
+2026-05-08 00:00:30,718 | INFO | Total unique prospects: 0
+2026-05-08 00:00:30,720 | WARNING | No prospects to export
+2026-05-08 00:00:30,722 | INFO | Done.

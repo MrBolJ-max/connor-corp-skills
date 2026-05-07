@@ -1,0 +1,15 @@
+{
+  "name": "connor-corp-checkout",
+  "version": "1.0.0",
+  "description": "Stripe checkout for AI Sales Caller",
+  "main": "stripe-checkout.js",
+  "scripts": {
+    "start": "node stripe-checkout.js",
+    "dev": "node stripe-checkout.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "stripe": "^12.0.0",
+    "cors": "^2.8.5"
+  }
+}
