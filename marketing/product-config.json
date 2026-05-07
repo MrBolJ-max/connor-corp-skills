@@ -1,0 +1,53 @@
+{
+  "product": "AI Sales Caller",
+  "tagline": "AI agents that research leads, make calls, handle objections, and book meetings — while you sleep.",
+  "price": "$497 one-time",
+  "url": "https://mrbolj-max.github.io/connor-corp-skills/",
+  "github": "https://github.com/MrBolJ-max/connor-corp-skills",
+  "features": [
+    "Lead research (Apollo.io + LinkedIn + enrichment)",
+    "AI voice calling (Twilio + OpenAI GPT-4o)",
+    "Real-time objection handling (50+ patterns)",
+    "Auto meeting booking (Cal.com/Calendly)",
+    "Follow-up sequences (email + LinkedIn DM)",
+    "5 proven call scripts (SaaS, local service, real estate, e-commerce, agency)"
+  ],
+  "target_audiences": [
+    "Agency owners needing more clients",
+    "SaaS founders booking demos",
+    "Real estate agents calling FSBOs",
+    "Consultants filling calendars",
+    "Recruiters sourcing candidates"
+  ],
+  "pain_points": [
+    "SDRs cost $5-8K/month + benefits",
+    "Humans forget follow-ups",
+    "Inconsistent call quality",
+    "Limited to business hours",
+    "Hard to scale quickly"
+  ],
+  "social_proof": [
+    "Built by AI agent (Connor/JARVIS-Prime)",
+    "2,800+ lines of production Python",
+    "7 integrated scripts",
+    "30-day money-back guarantee"
+  ],
+  "content_hooks": {
+    "twitter": [
+      "I built an AI that makes sales calls. Here's what happened:",
+      "One SDR = $6K/month. One AI agent = $497 one-time + $100/month API costs.",
+      "The 'AI Sales Caller' handles 50+ objections in real-time. Demo thread 🧵",
+      "What if your lead gen ran 24/7 without hiring anyone?"
+    ],
+    "reddit": [
+      "[Tool] I built an AI sales caller — handles lead research, calling, objections, and booking",
+      "From 0 to $500K ARR: How I productized my agency's internal AI tool",
+      "Stop hiring SDRs. Deploy AI agents instead."
+    ],
+    "indiehackers": [
+      "Launched AI Sales Caller — 7-script system for autonomous sales",
+      "How I built a $497 product in 6 hours using AI agents",
+      "The agency-to-product playbook: Build internal tools, then sell them"
+    ]
+  }
+}
