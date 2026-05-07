@@ -45,7 +45,7 @@
             <div class="price-tag">$497 — One-Time Payment</div>
             <h1>AI Sales Caller</h1>
             <p>Deploy AI agents that research leads, make personalized calls, handle objections, and book meetings — while you sleep.</p>
-            <button class="cta-button" onclick="checkout()">Get Instant Access →</button>
+            <button class="cta-button" onclick="checkout('starter')">Get Instant Access →</button>
             <p style="margin-top: 15px; font-size: 0.9em; color: #666;">30-Day Money-Back Guarantee • Lifetime Updates</p>
         </div>
 
@@ -121,7 +121,11 @@
         </div>
 
         <div style="text-align: center; padding: 40px 0;">
-            <button class="cta-button" onclick="checkout()">Get AI Sales Caller — $497</button>
+            <button class="cta-button" onclick="checkout('starter')">Get AI Sales Caller Starter — $497</button>
+            <br><br>
+            <button class="cta-button" style="background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);" onclick="checkout('pro')">Upgrade to Pro — $997</button>
+            <br><br>
+            <button class="cta-button" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);" onclick="checkout('enterprise')">Go Enterprise — $2,497</button>
             <p style="margin-top: 15px; color: #666;">Instant download • Lifetime updates • 30-day guarantee</p>
         </div>
 
@@ -132,24 +136,15 @@
     </div>
 
     <script>
-        // Stripe Checkout
-        const stripe = Stripe('pk_live_51MIlpcAILuc6earRPO9NVRHAs2OEuur4MwX21O9oM8RqVjtRhHJ5SRgPFP39GdnUGfJAdL1eInDzBsyN7BQ9OyV9006fPxY8RO');
+        // Stripe Payment Links — direct checkout, no backend needed
+        const PAYMENT_LINKS = {
+            starter: 'https://buy.stripe.com/8x214mbeKdTma6MeEB5Ne0q',
+            pro: 'https://buy.stripe.com/28E00i0A68z23IodAx5Ne0r',
+            enterprise: 'https://buy.stripe.com/fZu8wO3Mig1uceUdAx5Ne0s'
+        };
         
-        function checkout() {
-            // Create checkout session via backend
-            fetch('/api/create-checkout-session', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ price: 49700 }) // $497 in cents
-            })
-            .then(res => res.json())
-            .then(session => {
-                stripe.redirectToCheckout({ sessionId: session.id });
-            })
-            .catch(err => {
-                alert('Checkout loading... Please try again in a moment.');
-                console.error(err);
-            });
+        function checkout(tier = 'starter') {
+            window.open(PAYMENT_LINKS[tier] || PAYMENT_LINKS.starter, '_blank');
         }
     </script>
 </body>
