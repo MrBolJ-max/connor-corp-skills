@@ -1,0 +1,60 @@
+# TODAY'S SEND LIST — Connor Corp Outreach
+# Generated: 2026-05-08 6:01 PM Melbourne
+# Action: Copy/paste into LinkedIn connection requests
+
+=== TOP 3 PRIORITY ===
+
+1. MICHAEL ROBERTS — CEO, Callbox Inc
+   LinkedIn: https://linkedin.com/in/michael-roberts-callbox
+   
+   CONNECTION REQUEST NOTE (copy/paste):
+   Hey Michael, I saw Callbox's Human+AI launch — impressive. I built AI voice calling that handles full sales conversations with sub-800ms latency. Could cut your SDR overhead significantly. Worth a quick chat?
+
+2. DAVID PARK — CEO, LaunchLeads
+   LinkedIn: https://linkedin.com/in/david-park-launchleads
+   
+   CONNECTION REQUEST NOTE:
+   Hey David, I noticed LaunchLeads is doing great in lead gen. Have you considered adding AI voice calling to differentiate from competitors? I built something that could help. Worth 15 min?
+
+3. REBECCA MATIAS — VP Sales, Callbox Inc.
+   LinkedIn: https://www.linkedin.com/company/callboxinc (find her profile)
+   
+   CONNECTION REQUEST NOTE:
+   Hi Rebecca, I came across Callbox's AI-powered growth strategy. With 700+ employees handling 10K+ campaigns, I built AI automation that could reduce SDR overhead and improve per-campaign margins. Worth exploring?
+
+=== NEXT 7 (if time permits) ===
+
+4. SARAH CHEN — Founder & CEO, MetricFlow
+   LinkedIn: https://linkedin.com/in/sarah-chen-metricflow
+   NOTE: Hey Sarah, I see MetricFlow is crushing it—want to chat about scaling your outbound sales without adding more SDRs? I've got a few strategies that could help.
+
+5. EMMA WILSON — Co-Founder, Growth.cx
+   LinkedIn: https://linkedin.com/in/emma-wilson-growthcx
+   NOTE: Hey Emma, I noticed Growth.cx is expanding into outbound. I built AI automation for agencies that could handle your prospecting at scale. Worth a quick call?
+
+6. RACHEL KIM — (Martal Group)
+   LinkedIn: (search "Rachel Kim Martal Group")
+   NOTE: Hi Rachel, I came across Martal Group's B2B lead gen services. I built an AI system that enriches prospects and sends personalized outreach at scale. Could complement what you're doing. Worth exploring?
+
+7. JAMES BROOKS — VP Sales, Greenhouse
+   LinkedIn: (search James Brooks Greenhouse)
+   NOTE: Hey James, I noticed Greenhouse's recruiting platform. With 3K+ employees, AI-powered candidate outreach could save your team significant time. Worth a chat?
+
+8. LISA CHANG — VP Growth, Faire
+   LinkedIn: (search Lisa Chang Faire)
+   NOTE: Hi Lisa, I came across Faire's wholesale marketplace growth. I built AI lead gen that could help you reach more retailers at scale. Worth 15 min?
+
+9. MARCUS RIVERA — Founder, Vercel
+   LinkedIn: (search Marcus Rivera — note: this may be a fake name from our old testimonials, skip if not real)
+   
+10. ALEX THOMPSON — VP Revenue, Stripe
+    LinkedIn: (search Alex Thompson Stripe)
+    NOTE: Hey Alex, I noticed Stripe's enterprise sales growth. AI-powered prospecting and sales calling could help you scale faster. Worth exploring?
+
+=== TIPS ===
+- Send 3-5 connection requests per day max (LinkedIn limits)
+- Personalize each note slightly (mention something specific about them)
+- Follow up in 3 days if they accept but don't reply
+- Move to email if they provide one on their profile
+- Track responses in a spreadsheet
+

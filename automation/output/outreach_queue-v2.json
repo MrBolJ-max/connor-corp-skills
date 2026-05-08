@@ -1,0 +1,212 @@
+[
+  {
+    "id": "v2_1",
+    "prospect": {
+      "id": 1,
+      "company": "Callbox Inc.",
+      "website": "https://www.callboxinc.com",
+      "linkedin": "https://www.linkedin.com/company/callboxinc",
+      "size": "200-500",
+      "industry": "B2B Lead Generation Agency",
+      "decision_maker": {
+        "name": "Rebecca Matias",
+        "title": "VP of Sales & Operations"
+      },
+      "email": "sales@callboxinc.com",
+      "pain_signal": "Already using 'Human + AI' approach with proprietary Smart Engage platform, but handling 10K+ campaigns across 60+ countries manually. Massive scale operation that could benefit from deeper AI workflow automation to reduce SDR overhead and improve per-campaign margins.",
+      "source": "https://www.callboxinc.com"
+    },
+    "dm": "Hey Rebecca, I noticed Callbox Inc. is handling massive scale operations. We've built AI voice automation that could reduce your SDR overhead significantly. Worth a quick chat?",
+    "email": "Subject: AI automation for Callbox Inc.\n\nHi Rebecca Matias,\n\nI came across Callbox Inc. and saw you're dealing with Already using 'Human + AI' approach with proprietary Smart Engage platform, but ...\n\nWe've helped similar B2B lead gen agencies automate their sales calling and outreach with AI \u2014 cutting manual work by 60%+ and improving campaign margins.\n\nWould you be open to a 15-minute call this week to see if it's a fit?\n\nBest,\nConnor\nConnor Corp\n\nP.S. No obligation \u2014 just showing you what's possible.",
+    "status": "pending"
+  },
+  {
+    "id": "v2_2",
+    "prospect": {
+      "id": 2,
+      "company": "Martal Group",
+      "website": "https://martal.ca",
+      "linkedin": "https://www.linkedin.com/company/martal-group",
+      "size": "200-500",
+      "industry": "B2B Lead Generation / Outsourced SDR",
+      "decision_maker": {
+        "name": "Alexandre Champoux",
+        "title": "CEO & Founder"
+      },
+      "email": "info@martal.ca",
+      "pain_signal": "Claims 'proprietary AI outreach system' but data shows massive manual volume (58K+ emails, 19K+ calls per campaign) with low conversion rates. 200+ onshore reps doing repetitive work that AI agents could automate, reducing cost per lead significantly.",
+      "source": "https://martal.ca"
+    },
+    "dm": "Hey Alexandre, I noticed Martal Group is handling massive scale operations. We've built AI voice automation that could reduce your SDR overhead significantly. Worth a quick chat?",
+    "email": "Subject: AI automation for Martal Group\n\nHi Alexandre Champoux,\n\nI came across Martal Group and saw you're dealing with Claims 'proprietary AI outreach system' but data shows massive manual volume (58...\n\nWe've helped similar B2B lead gen agencies automate their sales calling and outreach with AI \u2014 cutting manual work by 60%+ and improving campaign margins.\n\nWould you be open to a 15-minute call this week to see if it's a fit?\n\nBest,\nConnor\nConnor Corp\n\nP.S. No obligation \u2014 just showing you what's possible.",
+    "status": "pending"
+  },
+  {
+    "id": "v2_3",
+    "prospect": {
+      "id": 3,
+      "company": "CIENCE Technologies",
+      "website": "https://cience.com",
+      "linkedin": "https://www.linkedin.com/company/cience-technologies",
+      "size": "100-250",
+      "industry": "B2B Lead Generation / SaaS",
+      "decision_maker": {
+        "name": "Eric Quanstrom",
+        "title": "Chief Marketing Officer"
+      },
+      "email": "info@cience.com",
+      "pain_signal": "Fast-growing lead gen agency with GO Data platform. Heavy reliance on human SDRs for outbound. AI automation could reduce SDR costs by 40-60% while increasing outreach capacity 10x. Looking to differentiate in crowded market.",
+      "source": "https://cience.com"
+    },
+    "dm": "Hey Eric, I noticed CIENCE Technologies is handling massive scale operations. We've built AI voice automation that could reduce your SDR overhead significantly. Worth a quick chat?",
+    "email": "Subject: AI automation for CIENCE Technologies\n\nHi Eric Quanstrom,\n\nI came across CIENCE Technologies and saw you're dealing with Fast-growing lead gen agency with GO Data platform. Heavy reliance on human SDRs...\n\nWe've helped similar B2B lead gen agencies automate their sales calling and outreach with AI \u2014 cutting manual work by 60%+ and improving campaign margins.\n\nWould you be open to a 15-minute call this week to see if it's a fit?\n\nBest,\nConnor\nConnor Corp\n\nP.S. No obligation \u2014 just showing you what's possible.",
+    "status": "pending"
+  },
+  {
+    "id": "v2_4",
+    "prospect": {
+      "id": 4,
+      "company": "Belkins",
+      "website": "https://www.belkins.io",
+      "linkedin": "https://www.linkedin.com/company/belkins",
+      "size": "50-200",
+      "industry": "B2B Lead Generation Agency",
+      "decision_maker": {
+        "name": "Vladyslav Podoliako",
+        "title": "CEO & Founder"
+      },
+      "email": "hello@belkins.io",
+      "pain_signal": "Appointment setting and lead gen agency with strong portfolio but scaling challenges. Manual email outreach, LinkedIn sequences, and research tasks dominate SDR time. AI automation could triple output without adding headcount.",
+      "source": "https://www.belkins.io"
+    },
+    "dm": "Hey Vladyslav, I noticed Belkins is handling massive scale operations. We've built AI voice automation that could reduce your SDR overhead significantly. Worth a quick chat?",
+    "email": "Subject: AI automation for Belkins\n\nHi Vladyslav Podoliako,\n\nI came across Belkins and saw you're dealing with Appointment setting and lead gen agency with strong portfolio but scaling challe...\n\nWe've helped similar B2B lead gen agencies automate their sales calling and outreach with AI \u2014 cutting manual work by 60%+ and improving campaign margins.\n\nWould you be open to a 15-minute call this week to see if it's a fit?\n\nBest,\nConnor\nConnor Corp\n\nP.S. No obligation \u2014 just showing you what's possible.",
+    "status": "pending"
+  },
+  {
+    "id": "v2_5",
+    "prospect": {
+      "id": 5,
+      "company": "SalesRoads",
+      "website": "https://salesroads.com",
+      "linkedin": "https://www.linkedin.com/company/salesroads",
+      "size": "50-200",
+      "industry": "Outsourced SDR / Sales Development",
+      "decision_maker": {
+        "name": "David Kreiger",
+        "title": "CEO & Founder"
+      },
+      "email": "info@salesroads.com",
+      "pain_signal": "Premier outsourced SDR firm with US-based reps. High labor costs (US onshore) make them vulnerable to AI disruption. Early AI adoption could protect margins and offer hybrid AI+human service tier to compete with offshore alternatives.",
+      "source": "https://salesroads.com"
+    },
+    "dm": "Hey David, I noticed SalesRoads is handling massive scale operations. We've built AI voice automation that could reduce your SDR overhead significantly. Worth a quick chat?",
+    "email": "Subject: AI automation for SalesRoads\n\nHi David Kreiger,\n\nI came across SalesRoads and saw you're dealing with Premier outsourced SDR firm with US-based reps. High labor costs (US onshore) ma...\n\nWe've helped similar B2B lead gen agencies automate their sales calling and outreach with AI \u2014 cutting manual work by 60%+ and improving campaign margins.\n\nWould you be open to a 15-minute call this week to see if it's a fit?\n\nBest,\nConnor\nConnor Corp\n\nP.S. No obligation \u2014 just showing you what's possible.",
+    "status": "pending"
+  },
+  {
+    "id": "v2_6",
+    "prospect": {
+      "id": 6,
+      "company": "Launch Leads",
+      "website": "https://launchleads.com",
+      "linkedin": "https://www.linkedin.com/company/launch-leads",
+      "size": "50-200",
+      "industry": "B2B Lead Generation Agency",
+      "decision_maker": {
+        "name": "James Kerpan",
+        "title": "President"
+      },
+      "email": "info@launchleads.com",
+      "pain_signal": "Appointment setting and lead gen focused on tech/SaaS. Manual prospecting and qualification workflows. AI could automate lead research, scoring, and initial outreach\u2014freeing human reps to focus on high-value conversations only.",
+      "source": "https://launchleads.com"
+    },
+    "dm": "Hey James, I noticed Launch Leads is handling massive scale operations. We've built AI voice automation that could reduce your SDR overhead significantly. Worth a quick chat?",
+    "email": "Subject: AI automation for Launch Leads\n\nHi James Kerpan,\n\nI came across Launch Leads and saw you're dealing with Appointment setting and lead gen focused on tech/SaaS. Manual prospecting and qu...\n\nWe've helped similar B2B lead gen agencies automate their sales calling and outreach with AI \u2014 cutting manual work by 60%+ and improving campaign margins.\n\nWould you be open to a 15-minute call this week to see if it's a fit?\n\nBest,\nConnor\nConnor Corp\n\nP.S. No obligation \u2014 just showing you what's possible.",
+    "status": "pending"
+  },
+  {
+    "id": "v2_7",
+    "prospect": {
+      "id": 7,
+      "company": "Smith.ai",
+      "website": "https://smith.ai",
+      "linkedin": "https://www.linkedin.com/company/smith-ai",
+      "size": "50-200",
+      "industry": "Virtual Receptionist / Lead Qualification",
+      "decision_maker": {
+        "name": "Aaron Lee",
+        "title": "CEO & Co-Founder"
+      },
+      "email": "info@smith.ai",
+      "pain_signal": "Already AI-forward with virtual receptionists and chat, but outbound sales development is underserved. Strong brand in inbound\u2014expanding into AI-powered outbound SDR services would be natural product extension with existing customer base.",
+      "source": "https://smith.ai"
+    },
+    "dm": "Hey Aaron, I noticed Smith.ai is handling massive scale operations. We've built AI voice automation that could reduce your SDR overhead significantly. Worth a quick chat?",
+    "email": "Subject: AI automation for Smith.ai\n\nHi Aaron Lee,\n\nI came across Smith.ai and saw you're dealing with Already AI-forward with virtual receptionists and chat, but outbound sales devel...\n\nWe've helped similar B2B lead gen agencies automate their sales calling and outreach with AI \u2014 cutting manual work by 60%+ and improving campaign margins.\n\nWould you be open to a 15-minute call this week to see if it's a fit?\n\nBest,\nConnor\nConnor Corp\n\nP.S. No obligation \u2014 just showing you what's possible.",
+    "status": "pending"
+  },
+  {
+    "id": "v2_8",
+    "prospect": {
+      "id": 8,
+      "company": "Sociallyin",
+      "website": "https://www.sociallyin.com",
+      "linkedin": "https://www.linkedin.com/company/sociallyin",
+      "size": "50-200",
+      "industry": "Social Media Marketing Agency",
+      "decision_maker": {
+        "name": "Keith Kakadia",
+        "title": "CEO & Founder"
+      },
+      "email": "hello@sociallyin.com",
+      "pain_signal": "Creative-led social agency looking to add AI/automation services. Strong in content but lacks systematic outbound lead gen for their own agency and clients. AI automation stack would differentiate from commodity social media shops.",
+      "source": "https://www.sociallyin.com"
+    },
+    "dm": "Hey Keith, I noticed Sociallyin is handling massive scale operations. We've built AI voice automation that could reduce your SDR overhead significantly. Worth a quick chat?",
+    "email": "Subject: AI automation for Sociallyin\n\nHi Keith Kakadia,\n\nI came across Sociallyin and saw you're dealing with Creative-led social agency looking to add AI/automation services. Strong in cont...\n\nWe've helped similar B2B lead gen agencies automate their sales calling and outreach with AI \u2014 cutting manual work by 60%+ and improving campaign margins.\n\nWould you be open to a 15-minute call this week to see if it's a fit?\n\nBest,\nConnor\nConnor Corp\n\nP.S. No obligation \u2014 just showing you what's possible.",
+    "status": "pending"
+  },
+  {
+    "id": "v2_9",
+    "prospect": {
+      "id": 9,
+      "company": "WebFX",
+      "website": "https://www.webfx.com",
+      "linkedin": "https://www.linkedin.com/company/webfx",
+      "size": "200-500",
+      "industry": "Digital Marketing Agency",
+      "decision_maker": {
+        "name": "Bill Craig",
+        "title": "CEO"
+      },
+      "email": "info@webfx.com",
+      "pain_signal": "Large agency with 500+ employees doing SEO, PPC, web design. Manual client acquisition and account management at scale. AI automation for lead nurturing, proposal generation, and client reporting would reduce overhead significantly.",
+      "source": "https://www.webfx.com"
+    },
+    "dm": "Hey Bill, I noticed WebFX is handling massive scale operations. We've built AI voice automation that could reduce your SDR overhead significantly. Worth a quick chat?",
+    "email": "Subject: AI automation for WebFX\n\nHi Bill Craig,\n\nI came across WebFX and saw you're dealing with Large agency with 500+ employees doing SEO, PPC, web design. Manual client acqui...\n\nWe've helped similar B2B lead gen agencies automate their sales calling and outreach with AI \u2014 cutting manual work by 60%+ and improving campaign margins.\n\nWould you be open to a 15-minute call this week to see if it's a fit?\n\nBest,\nConnor\nConnor Corp\n\nP.S. No obligation \u2014 just showing you what's possible.",
+    "status": "pending"
+  },
+  {
+    "id": "v2_10",
+    "prospect": {
+      "id": 10,
+      "company": "Disruptive Advertising",
+      "website": "https://www.disruptiveadvertising.com",
+      "linkedin": "https://www.linkedin.com/company/disruptive-advertising",
+      "size": "100-250",
+      "industry": "Performance Marketing Agency",
+      "decision_maker": {
+        "name": "Jacob Baadsgaard",
+        "title": "CEO & Founder"
+      },
+      "email": "info@disruptiveadvertising.com",
+      "pain_signal": "PPC-focused agency with strong tech stack for ads but manual sales process. Expanding into AI-powered lead gen and automation services for clients would create new revenue line and reduce churn by offering full-funnel solutions.",
+      "source": "https://www.disruptiveadvertising.com"
+    },
+    "dm": "Hey Jacob, I noticed Disruptive Advertising is handling massive scale operations. We've built AI voice automation that could reduce your SDR overhead significantly. Worth a quick chat?",
+    "email": "Subject: AI automation for Disruptive Advertising\n\nHi Jacob Baadsgaard,\n\nI came across Disruptive Advertising and saw you're dealing with PPC-focused agency with strong tech stack for ads but manual sales process. Expa...\n\nWe've helped similar B2B lead gen agencies automate their sales calling and outreach with AI \u2014 cutting manual work by 60%+ and improving campaign margins.\n\nWould you be open to a 15-minute call this week to see if it's a fit?\n\nBest,\nConnor\nConnor Corp\n\nP.S. No obligation \u2014 just showing you what's possible.",
+    "status": "pending"
+  }
+]

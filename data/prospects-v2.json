@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "company": "Callbox Inc.",
+    "website": "https://www.callboxinc.com",
+    "linkedin": "https://www.linkedin.com/company/callboxinc",
+    "size": "200-500",
+    "industry": "B2B Lead Generation Agency",
+    "decision_maker": {
+      "name": "Rebecca Matias",
+      "title": "VP of Sales & Operations"
+    },
+    "email": "sales@callboxinc.com",
+    "pain_signal": "Already using 'Human + AI' approach with proprietary Smart Engage platform, but handling 10K+ campaigns across 60+ countries manually. Massive scale operation that could benefit from deeper AI workflow automation to reduce SDR overhead and improve per-campaign margins.",
+    "source": "https://www.callboxinc.com"
+  },
+  {
+    "id": 2,
+    "company": "Martal Group",
+    "website": "https://martal.ca",
+    "linkedin": "https://www.linkedin.com/company/martal-group",
+    "size": "200-500",
+    "industry": "B2B Lead Generation / Outsourced SDR",
+    "decision_maker": {
+      "name": "Alexandre Champoux",
+      "title": "CEO & Founder"
+    },
+    "email": "info@martal.ca",
+    "pain_signal": "Claims 'proprietary AI outreach system' but data shows massive manual volume (58K+ emails, 19K+ calls per campaign) with low conversion rates. 200+ onshore reps doing repetitive work that AI agents could automate, reducing cost per lead significantly.",
+    "source": "https://martal.ca"
+  },
+  {
+    "id": 3,
+    "company": "CIENCE Technologies",
+    "website": "https://cience.com",
+    "linkedin": "https://www.linkedin.com/company/cience-technologies",
+    "size": "100-250",
+    "industry": "B2B Lead Generation / SaaS",
+    "decision_maker": {
+      "name": "Eric Quanstrom",
+      "title": "Chief Marketing Officer"
+    },
+    "email": "info@cience.com",
+    "pain_signal": "Fast-growing lead gen agency with GO Data platform. Heavy reliance on human SDRs for outbound. AI automation could reduce SDR costs by 40-60% while increasing outreach capacity 10x. Looking to differentiate in crowded market.",
+    "source": "https://cience.com"
+  },
+  {
+    "id": 4,
+    "company": "Belkins",
+    "website": "https://www.belkins.io",
+    "linkedin": "https://www.linkedin.com/company/belkins",
+    "size": "50-200",
+    "industry": "B2B Lead Generation Agency",
+    "decision_maker": {
+      "name": "Vladyslav Podoliako",
+      "title": "CEO & Founder"
+    },
+    "email": "hello@belkins.io",
+    "pain_signal": "Appointment setting and lead gen agency with strong portfolio but scaling challenges. Manual email outreach, LinkedIn sequences, and research tasks dominate SDR time. AI automation could triple output without adding headcount.",
+    "source": "https://www.belkins.io"
+  },
+  {
+    "id": 5,
+    "company": "SalesRoads",
+    "website": "https://salesroads.com",
+    "linkedin": "https://www.linkedin.com/company/salesroads",
+    "size": "50-200",
+    "industry": "Outsourced SDR / Sales Development",
+    "decision_maker": {
+      "name": "David Kreiger",
+      "title": "CEO & Founder"
+    },
+    "email": "info@salesroads.com",
+    "pain_signal": "Premier outsourced SDR firm with US-based reps. High labor costs (US onshore) make them vulnerable to AI disruption. Early AI adoption could protect margins and offer hybrid AI+human service tier to compete with offshore alternatives.",
+    "source": "https://salesroads.com"
+  },
+  {
+    "id": 6,
+    "company": "Launch Leads",
+    "website": "https://launchleads.com",
+    "linkedin": "https://www.linkedin.com/company/launch-leads",
+    "size": "50-200",
+    "industry": "B2B Lead Generation Agency",
+    "decision_maker": {
+      "name": "James Kerpan",
+      "title": "President"
+    },
+    "email": "info@launchleads.com",
+    "pain_signal": "Appointment setting and lead gen focused on tech/SaaS. Manual prospecting and qualification workflows. AI could automate lead research, scoring, and initial outreach—freeing human reps to focus on high-value conversations only.",
+    "source": "https://launchleads.com"
+  },
+  {
+    "id": 7,
+    "company": "Smith.ai",
+    "website": "https://smith.ai",
+    "linkedin": "https://www.linkedin.com/company/smith-ai",
+    "size": "50-200",
+    "industry": "Virtual Receptionist / Lead Qualification",
+    "decision_maker": {
+      "name": "Aaron Lee",
+      "title": "CEO & Co-Founder"
+    },
+    "email": "info@smith.ai",
+    "pain_signal": "Already AI-forward with virtual receptionists and chat, but outbound sales development is underserved. Strong brand in inbound—expanding into AI-powered outbound SDR services would be natural product extension with existing customer base.",
+    "source": "https://smith.ai"
+  },
+  {
+    "id": 8,
+    "company": "Sociallyin",
+    "website": "https://www.sociallyin.com",
+    "linkedin": "https://www.linkedin.com/company/sociallyin",
+    "size": "50-200",
+    "industry": "Social Media Marketing Agency",
+    "decision_maker": {
+      "name": "Keith Kakadia",
+      "title": "CEO & Founder"
+    },
+    "email": "hello@sociallyin.com",
+    "pain_signal": "Creative-led social agency looking to add AI/automation services. Strong in content but lacks systematic outbound lead gen for their own agency and clients. AI automation stack would differentiate from commodity social media shops.",
+    "source": "https://www.sociallyin.com"
+  },
+  {
+    "id": 9,
+    "company": "WebFX",
+    "website": "https://www.webfx.com",
+    "linkedin": "https://www.linkedin.com/company/webfx",
+    "size": "200-500",
+    "industry": "Digital Marketing Agency",
+    "decision_maker": {
+      "name": "Bill Craig",
+      "title": "CEO"
+    },
+    "email": "info@webfx.com",
+    "pain_signal": "Large agency with 500+ employees doing SEO, PPC, web design. Manual client acquisition and account management at scale. AI automation for lead nurturing, proposal generation, and client reporting would reduce overhead significantly.",
+    "source": "https://www.webfx.com"
+  },
+  {
+    "id": 10,
+    "company": "Disruptive Advertising",
+    "website": "https://www.disruptiveadvertising.com",
+    "linkedin": "https://www.linkedin.com/company/disruptive-advertising",
+    "size": "100-250",
+    "industry": "Performance Marketing Agency",
+    "decision_maker": {
+      "name": "Jacob Baadsgaard",
+      "title": "CEO & Founder"
+    },
+    "email": "info@disruptiveadvertising.com",
+    "pain_signal": "PPC-focused agency with strong tech stack for ads but manual sales process. Expanding into AI-powered lead gen and automation services for clients would create new revenue line and reduce churn by offering full-funnel solutions.",
+    "source": "https://www.disruptiveadvertising.com"
+  },
+  {
+    "id": 11,
+    "company": "Lavender",
+    "website": "https://www.lavender.ai",
+    "linkedin": "https://www.linkedin.com/company/lavender-ai",
+    "size": "10-50",
+    "industry": "Sales Email AI / SaaS",
+    "decision_maker": {
+      "name": "William Ballance",
+      "title": "CEO & Co-Founder"
+    },
+    "email": "hello@lavender.ai",
+    "pain_signal": "AI email coaching tool for sales teams. Product works in single channel (email) only. Expanding into multi-channel AI outreach automation (LinkedIn, voice, video) would 10x their TAM and defend against broader platforms.",
+    "source": "https://www.lavender.ai"
+  },
+  {
+    "id": 12,
+    "company": "Regie.ai",
+    "website": "https://www.regie.ai",
+    "linkedin": "https://www.linkedin.com/company/regie-ai",
+    "size": "10-50",
+    "industry": "AI Sales Automation / SaaS",
+    "decision_maker": {
+      "name": "Srinath Sridhar",
+      "title": "CEO & Co-Founder"
+    },
+    "email": "hello@regie.ai",
+    "pain_signal": "AI platform for sales content and sequences. Well-funded startup in competitive space. Needs to expand beyond content into full workflow automation (research, enrichment, multi-channel outreach) to compete with bigger players.",
+    "source": "https://www.regie.ai"
+  },
+  {
+    "id": 13,
+    "company": "KlientBoost",
+    "website": "https://www.klientboost.com",
+    "linkedin": "https://www.linkedin.com/company/klientboost",
+    "size": "50-200",
+    "industry": "Performance Marketing Agency",
+    "decision_maker": {
+      "name": "Johnathan Dane",
+      "title": "CEO & Founder"
+    },
+    "email": "hello@klientboost.com",
+    "pain_signal": "High-growth PPC/CRO agency with strong brand but manual sales process. Heavy outbound to land enterprise clients. AI automation for prospecting, proposal creation, and follow-up sequences would accelerate growth without linear headcount adds.",
+    "source": "https://www.klientboost.com"
+  },
+  {
+    "id": 14,
+    "company": "Single Grain",
+    "website": "https://www.singlegrain.com",
+    "linkedin": "https://www.linkedin.com/company/single-grain",
+    "size": "50-200",
+    "industry": "Digital Marketing Agency",
+    "decision_maker": {
+      "name": "Eric Siu",
+      "title": "CEO"
+    },
+    "email": "hello@singlegrain.com",
+    "pain_signal": "Content-heavy marketing agency with podcasts, YouTube, and SEO services. Strong inbound but inconsistent outbound. AI-powered lead gen and nurture sequences would systematize sales and reduce reliance on founder-led selling.",
+    "source": "https://www.singlegrain.com"
+  },
+  {
+    "id": 15,
+    "company": "LeadGenius",
+    "website": "https://www.leadgenius.com",
+    "linkedin": "https://www.linkedin.com/company/leadgenius",
+    "size": "50-200",
+    "industry": "B2B Data / Lead Generation",
+    "decision_maker": {
+      "name": "Anand Keshu",
+      "title": "CEO"
+    },
+    "email": "info@leadgenius.com",
+    "pain_signal": "B2B data provider with global workforce for data collection. Core business threatened by AI data enrichment tools. Needs to pivot from manual data research to AI-powered automation services for clients—survival-level urgency.",
+    "source": "https://www.leadgenius.com"
+  },
+  {
+    "id": 16,
+    "company": "Sapper Consulting",
+    "website": "https://www.sapperconsulting.com",
+    "linkedin": "https://www.linkedin.com/company/sapper-consulting",
+    "size": "50-200",
+    "industry": "B2B Lead Generation / Consulting",
+    "decision_maker": {
+      "name": "Jeff Winters",
+      "title": "CEO & Founder"
+    },
+    "email": "info@sapperconsulting.com",
+    "pain_signal": "B2B lead gen consultancy focused on complex sales. Heavy manual research and personalized outreach at small scale. AI could dramatically expand capacity per consultant, improving margins and enabling service to mid-market segment.",
+    "source": "https://www.sapperconsulting.com"
+  },
+  {
+    "id": 17,
+    "company": "Vendasta",
+    "website": "https://www.vendasta.com",
+    "linkedin": "https://www.linkedin.com/company/vendasta",
+    "size": "200-500",
+    "industry": "White-Label SaaS Platform",
+    "decision_maker": {
+      "name": "Brendan King",
+      "title": "CEO"
+    },
+    "email": "info@vendasta.com",
+    "pain_signal": "White-label platform for agencies. Already offers CRM and marketing tools but lacks AI-powered outbound sales automation. Adding AI SDR capabilities would be massive upsell to 60K+ agency partners using their platform.",
+    "source": "https://www.vendasta.com"
+  },
+  {
+    "id": 18,
+    "company": "Verse.ai",
+    "website": "https://www.verse.ai",
+    "linkedin": "https://www.linkedin.com/company/verse-ai",
+    "size": "10-50",
+    "industry": "AI Lead Response / SaaS",
+    "decision_maker": {
+      "name": "David Tal",
+      "title": "CEO & Co-Founder"
+    },
+    "email": "hello@verse.ai",
+    "pain_signal": "AI-powered lead response platform (formerly Agentology). Strong in speed-to-lead for inbound. Natural expansion into AI outbound prospecting and nurture would complete their offering and increase ACV significantly.",
+    "source": "https://www.verse.ai"
+  },
+  {
+    "id": 19,
+    "company": "Pearl Lemon Leads",
+    "website": "https://pearllemonleads.com",
+    "linkedin": "https://www.linkedin.com/company/pearl-lemon-leads",
+    "size": "10-50",
+    "industry": "B2B Lead Generation Agency",
+    "decision_maker": {
+      "name": "Deepak Shukla",
+      "title": "CEO & Founder"
+    },
+    "email": "deepak@pearllemonleads.com",
+    "pain_signal": "UK-based lead gen agency with heavy reliance on manual LinkedIn outreach and cold email. Founder-led with limited scalability. AI automation would remove founder bottleneck and enable 24/7 lead generation capacity.",
+    "source": "https://pearllemonleads.com"
+  },
+  {
+    "id": 20,
+    "company": "LeadForensics",
+    "website": "https://www.leadforensics.com",
+    "linkedin": "https://www.linkedin.com/company/lead-forensics",
+    "size": "100-250",
+    "industry": "Website Visitor ID / Intent Data",
+    "decision_maker": {
+      "name": "Paul Thomas",
+      "title": "VP of Sales"
+    },
+    "email": "info@leadforensics.com",
+    "pain_signal": "Website visitor identification platform with strong intent data. Problem: customers get leads but lack automated systems to act on them. Offering integrated AI outreach automation would increase platform value and reduce churn.",
+    "source": "https://www.leadforensics.com"
+  }
+]
