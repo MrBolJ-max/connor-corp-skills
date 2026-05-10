@@ -1830,3 +1830,438 @@
 2026-05-10 12:05:19,913 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2026-05-10 12:05:20,417 | INFO | Saved 40 messages to /root/.openclaw/workspace/projects/connor-corp-skills/automation/output/outreach_queue.json
 2026-05-10 12:05:20,418 | INFO | Done. Generated 40 messages.
+2026-05-10 16:00:04,080 | INFO | ============================================================
+2026-05-10 16:00:04,080 | INFO | OUTREACH DM GENERATOR — Connor Corp
+2026-05-10 16:00:04,080 | INFO | ============================================================
+2026-05-10 16:00:04,081 | INFO | Loaded 40 prospects from /root/.openclaw/workspace/projects/connor-corp-skills/automation/output/prospects.csv
+2026-05-10 16:00:04,082 | INFO | Generating 50 messages (OpenAI: enabled)
+2026-05-10 16:00:04,082 | INFO | Generating message 1/50 for Sarah Chen
+2026-05-10 16:00:08,764 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:10,517 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:11,021 | INFO | Generating message 2/50 for David Park
+2026-05-10 16:00:12,652 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:14,319 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:14,827 | INFO | Generating message 3/50 for Michael Roberts
+2026-05-10 16:00:16,131 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:17,867 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:18,370 | INFO | Generating message 4/50 for Emma Wilson
+2026-05-10 16:00:19,698 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:23,581 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:24,084 | INFO | Generating message 5/50 for James Mitchell
+2026-05-10 16:00:25,117 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:27,144 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:27,647 | INFO | Generating message 6/50 for Lucas Martinez
+2026-05-10 16:00:28,579 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:30,433 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:30,935 | INFO | Generating message 7/50 for Amanda Foster
+2026-05-10 16:00:32,718 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:34,328 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:34,829 | INFO | Generating message 8/50 for Chris Taylor
+2026-05-10 16:00:36,025 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:38,016 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:38,522 | INFO | Generating message 9/50 for Rachel Kim
+2026-05-10 16:00:40,093 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:42,400 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:42,911 | INFO | Generating message 10/50 for Tom Bradley
+2026-05-10 16:00:44,100 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:46,290 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:00:46,795 | INFO | Generating message 11/50 for Nicole Adams
+2026-05-10 16:00:46,795 | INFO | Rate limit hit. Sleeping 17.3s
+2026-05-10 16:01:07,917 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:07,922 | INFO | Rate limit hit. Sleeping 0.9s
+2026-05-10 16:01:10,739 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:11,241 | INFO | Generating message 12/50 for Mark Johnson
+2026-05-10 16:01:12,372 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:12,376 | INFO | Rate limit hit. Sleeping 0.3s
+2026-05-10 16:01:14,330 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:14,831 | INFO | Generating message 13/50 for Jessica Lee
+2026-05-10 16:01:15,945 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:15,950 | INFO | Rate limit hit. Sleeping 0.2s
+2026-05-10 16:01:17,959 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:18,464 | INFO | Generating message 14/50 for Daniel Wong
+2026-05-10 16:01:19,571 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:19,573 | INFO | Rate limit hit. Sleeping 0.1s
+2026-05-10 16:01:22,028 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:22,530 | INFO | Generating message 15/50 for Priya Sharma
+2026-05-10 16:01:22,530 | INFO | Rate limit hit. Sleeping 1.6s
+2026-05-10 16:01:26,556 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:28,813 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:29,317 | INFO | Generating message 16/50 for Andrew Thompson
+2026-05-10 16:01:30,426 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:32,198 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:32,707 | INFO | Generating message 17/50 for Ryan O'Brien
+2026-05-10 16:01:33,701 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:35,692 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:36,194 | INFO | Generating message 18/50 for Sophie Martin
+2026-05-10 16:01:37,307 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:41,624 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:42,128 | INFO | Generating message 19/50 for Alex Rivera
+2026-05-10 16:01:44,104 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:48,685 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:49,187 | INFO | Generating message 20/50 for Jordan Smith
+2026-05-10 16:01:50,082 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:52,098 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:01:52,601 | INFO | Generating message 21/50 for Olivia Bennett
+2026-05-10 16:01:52,601 | INFO | Rate limit hit. Sleeping 11.5s
+2026-05-10 16:02:05,248 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:05,250 | INFO | Rate limit hit. Sleeping 3.5s
+2026-05-10 16:02:13,288 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:13,789 | INFO | Generating message 22/50 for Benjamin Lee
+2026-05-10 16:02:14,752 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:16,427 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:16,928 | INFO | Generating message 23/50 for Sophia Nguyen
+2026-05-10 16:02:18,437 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:20,588 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:21,091 | INFO | Generating message 24/50 for Liam Cooper
+2026-05-10 16:02:22,022 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:24,112 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:24,614 | INFO | Generating message 25/50 for Emma Richardson
+2026-05-10 16:02:25,619 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:25,620 | INFO | Rate limit hit. Sleeping 0.9s
+2026-05-10 16:02:28,578 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:29,081 | INFO | Generating message 26/50 for William Zhang
+2026-05-10 16:02:29,082 | INFO | Rate limit hit. Sleeping 0.2s
+2026-05-10 16:02:30,817 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:32,941 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:33,443 | INFO | Generating message 27/50 for Charlotte Davis
+2026-05-10 16:02:34,606 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:37,057 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:37,564 | INFO | Generating message 28/50 for Henry Wilson
+2026-05-10 16:02:38,662 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:40,701 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:41,202 | INFO | Generating message 29/50 for Zoe Anderson
+2026-05-10 16:02:41,203 | INFO | Rate limit hit. Sleeping 0.9s
+2026-05-10 16:02:43,674 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:43,675 | INFO | Rate limit hit. Sleeping 0.4s
+2026-05-10 16:02:46,024 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:46,526 | INFO | Generating message 30/50 for Noah Thompson
+2026-05-10 16:02:46,526 | INFO | Rate limit hit. Sleeping 2.7s
+2026-05-10 16:02:50,239 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:52,137 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:02:52,638 | INFO | Generating message 31/50 for Lucas Brown
+2026-05-10 16:02:52,638 | INFO | Rate limit hit. Sleeping 11.4s
+2026-05-10 16:03:05,700 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:05,702 | INFO | Rate limit hit. Sleeping 3.1s
+2026-05-10 16:03:13,383 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:13,885 | INFO | Generating message 32/50 for Mia Johnson
+2026-05-10 16:03:14,960 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:16,921 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:17,423 | INFO | Generating message 33/50 for Ethan Davis
+2026-05-10 16:03:18,749 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:21,259 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:21,761 | INFO | Generating message 34/50 for Ava Wilson
+2026-05-10 16:03:23,130 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:24,770 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:25,273 | INFO | Generating message 35/50 for Isabella Martin
+2026-05-10 16:03:26,378 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:26,379 | INFO | Rate limit hit. Sleeping 0.2s
+2026-05-10 16:03:28,219 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:28,726 | INFO | Generating message 36/50 for Jack Robinson
+2026-05-10 16:03:28,726 | INFO | Rate limit hit. Sleeping 0.6s
+2026-05-10 16:03:30,786 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:30,788 | INFO | Rate limit hit. Sleeping 0.0s
+2026-05-10 16:03:34,952 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:35,455 | INFO | Generating message 37/50 for Sophie Turner
+2026-05-10 16:03:37,217 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:39,176 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:39,684 | INFO | Generating message 38/50 for Mason Lee
+2026-05-10 16:03:42,189 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:44,442 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:44,945 | INFO | Generating message 39/50 for Chloe Anderson
+2026-05-10 16:03:46,872 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:49,035 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:49,537 | INFO | Generating message 40/50 for Liam Harris
+2026-05-10 16:03:50,956 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:53,600 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 16:03:54,104 | INFO | Saved 40 messages to /root/.openclaw/workspace/projects/connor-corp-skills/automation/output/outreach_queue.json
+2026-05-10 16:03:54,105 | INFO | Done. Generated 40 messages.
+2026-05-10 20:00:06,242 | INFO | ============================================================
+2026-05-10 20:00:06,243 | INFO | OUTREACH DM GENERATOR — Connor Corp
+2026-05-10 20:00:06,243 | INFO | ============================================================
+2026-05-10 20:00:06,244 | INFO | Loaded 40 prospects from /root/.openclaw/workspace/projects/connor-corp-skills/automation/output/prospects.csv
+2026-05-10 20:00:06,245 | INFO | Generating 50 messages (OpenAI: enabled)
+2026-05-10 20:00:06,245 | INFO | Generating message 1/50 for Sarah Chen
+2026-05-10 20:00:10,257 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:12,609 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:13,114 | INFO | Generating message 2/50 for David Park
+2026-05-10 20:00:14,817 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:16,496 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:17,001 | INFO | Generating message 3/50 for Michael Roberts
+2026-05-10 20:00:19,889 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:22,051 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:22,553 | INFO | Generating message 4/50 for Emma Wilson
+2026-05-10 20:00:25,295 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:30,780 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:31,289 | INFO | Generating message 5/50 for James Mitchell
+2026-05-10 20:00:32,244 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:34,944 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:35,447 | INFO | Generating message 6/50 for Lucas Martinez
+2026-05-10 20:00:36,396 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:38,700 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:39,221 | INFO | Generating message 7/50 for Amanda Foster
+2026-05-10 20:00:41,523 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:43,595 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:44,096 | INFO | Generating message 8/50 for Chris Taylor
+2026-05-10 20:00:45,348 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:47,628 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:48,131 | INFO | Generating message 9/50 for Rachel Kim
+2026-05-10 20:00:50,930 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:53,209 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:53,711 | INFO | Generating message 10/50 for Tom Bradley
+2026-05-10 20:00:54,781 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:57,718 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:00:58,243 | INFO | Generating message 11/50 for Nicole Adams
+2026-05-10 20:00:58,244 | INFO | Rate limit hit. Sleeping 8.0s
+2026-05-10 20:01:07,380 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:07,385 | INFO | Rate limit hit. Sleeping 2.9s
+2026-05-10 20:01:12,428 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:12,934 | INFO | Generating message 12/50 for Mark Johnson
+2026-05-10 20:01:12,935 | INFO | Rate limit hit. Sleeping 0.2s
+2026-05-10 20:01:14,340 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:14,343 | INFO | Rate limit hit. Sleeping 0.5s
+2026-05-10 20:01:16,727 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:17,231 | INFO | Generating message 13/50 for Jessica Lee
+2026-05-10 20:01:18,301 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:18,302 | INFO | Rate limit hit. Sleeping 1.6s
+2026-05-10 20:01:24,005 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:24,507 | INFO | Generating message 14/50 for Daniel Wong
+2026-05-10 20:01:25,350 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:27,165 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:27,672 | INFO | Generating message 15/50 for Priya Sharma
+2026-05-10 20:01:27,672 | INFO | Rate limit hit. Sleeping 3.6s
+2026-05-10 20:01:32,790 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:35,026 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:35,548 | INFO | Generating message 16/50 for Andrew Thompson
+2026-05-10 20:01:36,580 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:39,225 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:39,728 | INFO | Generating message 17/50 for Ryan O'Brien
+2026-05-10 20:01:40,647 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:40,648 | INFO | Rate limit hit. Sleeping 0.9s
+2026-05-10 20:01:43,575 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:44,077 | INFO | Generating message 18/50 for Sophie Martin
+2026-05-10 20:01:44,077 | INFO | Rate limit hit. Sleeping 0.0s
+2026-05-10 20:01:45,310 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:45,311 | INFO | Rate limit hit. Sleeping 0.0s
+2026-05-10 20:01:48,974 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:49,475 | INFO | Generating message 19/50 for Alex Rivera
+2026-05-10 20:01:50,841 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:50,843 | INFO | Rate limit hit. Sleeping 0.1s
+2026-05-10 20:01:55,330 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:55,832 | INFO | Generating message 20/50 for Jordan Smith
+2026-05-10 20:01:56,813 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:58,408 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:01:58,910 | INFO | Generating message 21/50 for Olivia Bennett
+2026-05-10 20:01:58,910 | INFO | Rate limit hit. Sleeping 7.3s
+2026-05-10 20:02:07,035 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:07,036 | INFO | Rate limit hit. Sleeping 3.2s
+2026-05-10 20:02:14,933 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:15,438 | INFO | Generating message 22/50 for Benjamin Lee
+2026-05-10 20:02:16,372 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:18,242 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:18,744 | INFO | Generating message 23/50 for Sophia Nguyen
+2026-05-10 20:02:20,143 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:22,187 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:22,689 | INFO | Generating message 24/50 for Liam Cooper
+2026-05-10 20:02:22,690 | INFO | Rate limit hit. Sleeping 1.8s
+2026-05-10 20:02:25,412 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:32,216 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:32,717 | INFO | Generating message 25/50 for Emma Richardson
+2026-05-10 20:02:33,922 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:36,069 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:36,571 | INFO | Generating message 26/50 for William Zhang
+2026-05-10 20:02:38,853 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:40,729 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:41,234 | INFO | Generating message 27/50 for Charlotte Davis
+2026-05-10 20:02:42,682 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:44,400 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:44,901 | INFO | Generating message 28/50 for Henry Wilson
+2026-05-10 20:02:46,961 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:50,974 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:51,482 | INFO | Generating message 29/50 for Zoe Anderson
+2026-05-10 20:02:52,875 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:54,649 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:55,155 | INFO | Generating message 30/50 for Noah Thompson
+2026-05-10 20:02:55,155 | INFO | Rate limit hit. Sleeping 0.7s
+2026-05-10 20:02:56,994 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:58,690 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:02:59,191 | INFO | Generating message 31/50 for Lucas Brown
+2026-05-10 20:02:59,191 | INFO | Rate limit hit. Sleeping 7.1s
+2026-05-10 20:03:08,225 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:08,227 | INFO | Rate limit hit. Sleeping 2.1s
+2026-05-10 20:03:12,932 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:13,436 | INFO | Generating message 32/50 for Mia Johnson
+2026-05-10 20:03:13,436 | INFO | Rate limit hit. Sleeping 2.0s
+2026-05-10 20:03:16,647 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:18,349 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:18,852 | INFO | Generating message 33/50 for Ethan Davis
+2026-05-10 20:03:20,049 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:20,050 | INFO | Rate limit hit. Sleeping 0.1s
+2026-05-10 20:03:22,787 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:23,294 | INFO | Generating message 34/50 for Ava Wilson
+2026-05-10 20:03:23,294 | INFO | Rate limit hit. Sleeping 1.2s
+2026-05-10 20:03:25,732 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:27,609 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:28,112 | INFO | Generating message 35/50 for Isabella Martin
+2026-05-10 20:03:28,113 | INFO | Rate limit hit. Sleeping 4.6s
+2026-05-10 20:03:33,717 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:33,720 | INFO | Rate limit hit. Sleeping 0.2s
+2026-05-10 20:03:35,592 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:36,096 | INFO | Generating message 36/50 for Jack Robinson
+2026-05-10 20:03:36,096 | INFO | Rate limit hit. Sleeping 0.5s
+2026-05-10 20:03:38,337 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:38,338 | INFO | Rate limit hit. Sleeping 0.5s
+2026-05-10 20:03:43,014 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:43,517 | INFO | Generating message 37/50 for Sophie Turner
+2026-05-10 20:03:45,439 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:47,158 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:47,660 | INFO | Generating message 38/50 for Mason Lee
+2026-05-10 20:03:49,074 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:51,006 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:51,514 | INFO | Generating message 39/50 for Chloe Anderson
+2026-05-10 20:03:53,020 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:54,992 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:03:55,494 | INFO | Generating message 40/50 for Liam Harris
+2026-05-10 20:03:55,494 | INFO | Rate limit hit. Sleeping 0.3s
+2026-05-10 20:03:57,800 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:04:01,741 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-10 20:04:02,246 | INFO | Saved 40 messages to /root/.openclaw/workspace/projects/connor-corp-skills/automation/output/outreach_queue.json
+2026-05-10 20:04:02,247 | INFO | Done. Generated 40 messages.
+2026-05-11 00:00:36,123 | INFO | ============================================================
+2026-05-11 00:00:36,123 | INFO | OUTREACH DM GENERATOR — Connor Corp
+2026-05-11 00:00:36,124 | INFO | ============================================================
+2026-05-11 00:00:36,124 | INFO | Loaded 40 prospects from /root/.openclaw/workspace/projects/connor-corp-skills/automation/output/prospects.csv
+2026-05-11 00:00:36,124 | INFO | Generating 50 messages (OpenAI: enabled)
+2026-05-11 00:00:36,124 | INFO | Generating message 1/50 for Sarah Chen
+2026-05-11 00:00:38,830 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:00:41,262 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:00:41,765 | INFO | Generating message 2/50 for David Park
+2026-05-11 00:00:43,014 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:00:44,860 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:00:45,361 | INFO | Generating message 3/50 for Michael Roberts
+2026-05-11 00:00:46,525 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:00:48,013 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:00:48,515 | INFO | Generating message 4/50 for Emma Wilson
+2026-05-11 00:00:49,419 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:00:51,901 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:00:52,402 | INFO | Generating message 5/50 for James Mitchell
+2026-05-11 00:00:53,619 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:00:56,216 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:00:56,721 | INFO | Generating message 6/50 for Lucas Martinez
+2026-05-11 00:00:58,007 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:01,675 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:02,177 | INFO | Generating message 7/50 for Amanda Foster
+2026-05-11 00:01:03,684 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:05,820 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:06,322 | INFO | Generating message 8/50 for Chris Taylor
+2026-05-11 00:01:07,566 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:10,296 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:10,798 | INFO | Generating message 9/50 for Rachel Kim
+2026-05-11 00:01:11,973 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:14,238 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:14,743 | INFO | Generating message 10/50 for Tom Bradley
+2026-05-11 00:01:16,213 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:19,251 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:19,753 | INFO | Generating message 11/50 for Nicole Adams
+2026-05-11 00:01:19,754 | INFO | Rate limit hit. Sleeping 16.4s
+2026-05-11 00:01:37,194 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:37,197 | INFO | Rate limit hit. Sleeping 1.6s
+2026-05-11 00:01:40,869 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:41,371 | INFO | Generating message 12/50 for Mark Johnson
+2026-05-11 00:01:41,372 | INFO | Rate limit hit. Sleeping 0.4s
+2026-05-11 00:01:42,893 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:42,895 | INFO | Rate limit hit. Sleeping 0.1s
+2026-05-11 00:01:45,252 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:45,755 | INFO | Generating message 13/50 for Jessica Lee
+2026-05-11 00:01:46,600 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:49,944 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:50,445 | INFO | Generating message 14/50 for Daniel Wong
+2026-05-11 00:01:51,634 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:53,848 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:54,349 | INFO | Generating message 15/50 for Priya Sharma
+2026-05-11 00:01:55,788 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:57,900 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:01:58,456 | INFO | Generating message 16/50 for Andrew Thompson
+2026-05-11 00:01:59,355 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:01,935 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:02,437 | INFO | Generating message 17/50 for Ryan O'Brien
+2026-05-11 00:02:03,580 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:03,589 | INFO | Rate limit hit. Sleeping 0.1s
+2026-05-11 00:02:06,265 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:06,768 | INFO | Generating message 18/50 for Sophie Martin
+2026-05-11 00:02:08,018 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:10,833 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:11,334 | INFO | Generating message 19/50 for Alex Rivera
+2026-05-11 00:02:12,861 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:15,812 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:16,313 | INFO | Generating message 20/50 for Jordan Smith
+2026-05-11 00:02:17,493 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:19,890 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:20,392 | INFO | Generating message 21/50 for Olivia Bennett
+2026-05-11 00:02:20,392 | INFO | Rate limit hit. Sleeping 15.7s
+2026-05-11 00:02:37,110 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:37,116 | INFO | Rate limit hit. Sleeping 1.7s
+2026-05-11 00:02:41,458 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:41,962 | INFO | Generating message 22/50 for Benjamin Lee
+2026-05-11 00:02:45,095 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:47,652 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:48,156 | INFO | Generating message 23/50 for Sophia Nguyen
+2026-05-11 00:02:49,240 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:50,869 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:51,371 | INFO | Generating message 24/50 for Liam Cooper
+2026-05-11 00:02:52,401 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:54,636 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:55,139 | INFO | Generating message 25/50 for Emma Richardson
+2026-05-11 00:02:56,517 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:02:59,796 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:00,302 | INFO | Generating message 26/50 for William Zhang
+2026-05-11 00:03:01,176 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:03,386 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:03,890 | INFO | Generating message 27/50 for Charlotte Davis
+2026-05-11 00:03:05,001 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:07,709 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:08,211 | INFO | Generating message 28/50 for Henry Wilson
+2026-05-11 00:03:09,732 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:12,609 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:13,112 | INFO | Generating message 29/50 for Zoe Anderson
+2026-05-11 00:03:14,421 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:16,103 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:16,607 | INFO | Generating message 30/50 for Noah Thompson
+2026-05-11 00:03:17,653 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:19,509 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:20,011 | INFO | Generating message 31/50 for Lucas Brown
+2026-05-11 00:03:20,012 | INFO | Rate limit hit. Sleeping 16.1s
+2026-05-11 00:03:37,346 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:37,350 | INFO | Rate limit hit. Sleeping 1.5s
+2026-05-11 00:03:40,981 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:41,483 | INFO | Generating message 32/50 for Mia Johnson
+2026-05-11 00:03:41,483 | INFO | Rate limit hit. Sleeping 0.5s
+2026-05-11 00:03:43,501 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:43,505 | INFO | Rate limit hit. Sleeping 1.6s
+2026-05-11 00:03:47,370 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:47,873 | INFO | Generating message 33/50 for Ethan Davis
+2026-05-11 00:03:47,874 | INFO | Rate limit hit. Sleeping 0.3s
+2026-05-11 00:03:49,496 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:52,122 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:52,624 | INFO | Generating message 34/50 for Ava Wilson
+2026-05-11 00:03:53,914 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:56,279 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:03:56,781 | INFO | Generating message 35/50 for Isabella Martin
+2026-05-11 00:03:57,893 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:00,291 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:00,792 | INFO | Generating message 36/50 for Jack Robinson
+2026-05-11 00:04:02,078 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:05,603 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:06,108 | INFO | Generating message 37/50 for Sophie Turner
+2026-05-11 00:04:07,157 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:09,183 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:09,684 | INFO | Generating message 38/50 for Mason Lee
+2026-05-11 00:04:11,554 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:13,274 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:13,777 | INFO | Generating message 39/50 for Chloe Anderson
+2026-05-11 00:04:15,370 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:18,202 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:18,704 | INFO | Generating message 40/50 for Liam Harris
+2026-05-11 00:04:20,177 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:24,208 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-11 00:04:24,714 | INFO | Saved 40 messages to /root/.openclaw/workspace/projects/connor-corp-skills/automation/output/outreach_queue.json
+2026-05-11 00:04:24,714 | INFO | Done. Generated 40 messages.
